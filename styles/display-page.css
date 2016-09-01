@@ -1,0 +1,41 @@
+.container{
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0;
+}
+
+.inner{
+	display: inline-block;
+	border: black solid 1px;
+	font-size: 0;
+}
+
+.top{
+	height: 200px;
+	width: 50%;
+}
+
+.bottom{
+	height: 300px;
+	width: 33.33%;
+}
+
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+
+.grey{
+	background-color: grey;
+}
+
+.black{
+	background-color: black;
+}
+
+.yellow{
+	background-color: gold;
+}
